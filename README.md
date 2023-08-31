@@ -34,3 +34,5 @@ commands:
 servers:
   local: "MTI3LjAuMC4xOjQ3MTE6c3VwZXIxMjM="
 ```
+---
+> ⚠️ Please do not use this bot on public servers. The project is not ready yet and I hope you understand why you should not do it yet.
