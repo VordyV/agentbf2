@@ -1,5 +1,11 @@
 token: ""
 users:
-  0000000000: 100
+  0000000000:
+    level: 100
+    servers:
+    - local
 commands:
   info: 0
+
+servers:
+  local: "MTI3LjAuMC4xOjQ3MTE6c3VwZXIxMjM="
